@@ -6,8 +6,8 @@
     "stars": 1,
     "difficulty": "A1",
     "words": 284,
-    "cover_url": "https://github.com/Code-whith-Anuj/book/blob/main/image/try.png?raw=true",
-    "download_url": "https://raw.githubusercontent.com/YourUsername/YourRepo/main/book/A1/the_lost_cat.txt"
+    "cover_url": "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?q=80&w=800",
+    "download_url": "https://raw.githubusercontent.com/Code-whith-Anuj/book/refs/heads/main/A1/the_lost_cat.txt"
   },
   {
     "id": "book_002",
@@ -17,7 +17,7 @@
     "difficulty": "A1",
     "words": 162,
     "cover_url": "https://images.unsplash.com/photo-1502602724639-7fe019059748?q=80&w=800",
-    "download_url": "https://raw.githubusercontent.com/YourUsername/YourRepo/main/book/A1/the_red_balloon.txt"
+    "download_url": "https://raw.githubusercontent.com/Code-whith-Anuj/book/refs/heads/main/A1/the_red_balloon.txt"
   },
   {
     "id": "book_003",
@@ -27,7 +27,7 @@
     "difficulty": "A1",
     "words": 118,
     "cover_url": "https://images.unsplash.com/photo-1511895426328-dc8714191300?q=80&w=800",
-    "download_url": "https://raw.githubusercontent.com/YourUsername/YourRepo/main/book/A1/my_family.txt"
+    "download_url": "https://raw.githubusercontent.com/Code-whith-Anuj/book/refs/heads/main/A1/my_family.txt"
   },
   {
     "id": "book_004",
@@ -37,7 +37,7 @@
     "difficulty": "A1",
     "words": 134,
     "cover_url": "https://images.unsplash.com/photo-1510797215324-95aa89f43c33?q=80&w=800",
-    "download_url": "https://raw.githubusercontent.com/YourUsername/YourRepo/main/book/A1/a_day_at_the_zoo.txt"
+    "download_url": "https://raw.githubusercontent.com/Code-whith-Anuj/book/refs/heads/main/A1/a_day_at_the_zoo.txt"
   },
   {
     "id": "book_005",
@@ -47,7 +47,7 @@
     "difficulty": "A1",
     "words": 92,
     "cover_url": "https://images.unsplash.com/photo-1566454544259-f4b94c3d758c?q=80&w=800",
-    "download_url": "https://raw.githubusercontent.com/YourUsername/YourRepo/main/book/A1/the_big_sandbox.txt"
+    "download_url": "https://raw.githubusercontent.com/Code-whith-Anuj/book/refs/heads/main/A1/the_big_sandbox.txt"
   },
   {
     "id": "book_006",
@@ -57,7 +57,7 @@
     "difficulty": "A2",
     "words": 416,
     "cover_url": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?q=80&w=800",
-    "download_url": "https://raw.githubusercontent.com/YourUsername/YourRepo/main/book/A2/morning_coffee.txt"
+    "download_url": "https://raw.githubusercontent.com/Code-whith-Anuj/book/refs/heads/main/A2/morning_coffee.txt"
   },
   {
     "id": "book_007",
@@ -67,7 +67,7 @@
     "difficulty": "A2",
     "words": 184,
     "cover_url": "https://images.unsplash.com/photo-1464349095431-e9a21285b5f3?q=80&w=800",
-    "download_url": "https://raw.githubusercontent.com/YourUsername/YourRepo/main/book/A2/the_surprise_party.txt"
+    "download_url": "https://raw.githubusercontent.com/Code-whith-Anuj/book/refs/heads/main/A2/the_surprise_party.txt"
   },
   {
     "id": "book_008",
@@ -77,7 +77,7 @@
     "difficulty": "A2",
     "words": 216,
     "cover_url": "https://images.unsplash.com/photo-1488459716781-31db52582fe9?q=80&w=800",
-    "download_url": "https://raw.githubusercontent.com/YourUsername/YourRepo/main/book/A2/market_day.txt"
+    "download_url": "https://raw.githubusercontent.com/Code-whith-Anuj/book/refs/heads/main/A2/market_day.txt"
   },
   {
     "id": "book_009",
@@ -87,7 +87,7 @@
     "difficulty": "A2",
     "words": 198,
     "cover_url": "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?q=80&w=800",
-    "download_url": "https://raw.githubusercontent.com/YourUsername/YourRepo/main/book/A2/a_weekend_in_the_city.txt"
+    "download_url": "https://raw.githubusercontent.com/Code-whith-Anuj/book/refs/heads/main/A2/a_weekend_in_the_city.txt"
   },
   {
     "id": "book_010",
@@ -97,7 +97,7 @@
     "difficulty": "A2",
     "words": 204,
     "cover_url": "https://images.unsplash.com/photo-1585320806297-9794b3e4eeae?q=80&w=800",
-    "download_url": "https://raw.githubusercontent.com/YourUsername/YourRepo/main/book/A2/the_secret_garden.txt"
+    "download_url": "https://raw.githubusercontent.com/Code-whith-Anuj/book/refs/heads/main/A2/the_secret_garden.txt"
   },
   {
     "id": "book_011",
@@ -107,7 +107,7 @@
     "difficulty": "B1",
     "words": 564,
     "cover_url": "https://images.unsplash.com/photo-1474487543417-981ceee1c0c8?q=80&w=800",
-    "download_url": "https://raw.githubusercontent.com/YourUsername/YourRepo/main/book/B1/the_train_ticket.txt"
+    "download_url": "https://raw.githubusercontent.com/Code-whith-Anuj/book/refs/heads/main/B1/the_train_ticket.txt"
   },
   {
     "id": "book_012",
@@ -117,7 +117,7 @@
     "difficulty": "B1",
     "words": 248,
     "cover_url": "https://images.unsplash.com/photo-1508931102983-ca497e780a42?q=80&w=800",
-    "download_url": "https://raw.githubusercontent.com/YourUsername/YourRepo/main/book/B1/the_midnight_watchmaker.txt"
+    "download_url": "https://raw.githubusercontent.com/Code-whith-Anuj/book/refs/heads/main/B1/the_midnight_watchmaker.txt"
   },
   {
     "id": "book_013",
@@ -127,7 +127,7 @@
     "difficulty": "B1",
     "words": 248,
     "cover_url": "https://images.unsplash.com/photo-1534088568595-a066f410bcda?q=80&w=800",
-    "download_url": "https://raw.githubusercontent.com/YourUsername/YourRepo/main/book/B1/escaping_the_storm.txt"
+    "download_url": "https://raw.githubusercontent.com/Code-whith-Anuj/book/refs/heads/main/B1/escaping_the_storm.txt"
   },
   {
     "id": "book_014",
@@ -137,7 +137,7 @@
     "difficulty": "B1",
     "words": 248,
     "cover_url": "https://images.unsplash.com/photo-1501504905252-473c47e087f8?q=80&w=800",
-    "download_url": "https://raw.githubusercontent.com/YourUsername/YourRepo/main/book/B1/the_unfinished_letter.txt"
+    "download_url": "https://raw.githubusercontent.com/Code-whith-Anuj/book/refs/heads/main/B1/the_unfinished_letter.txt"
   },
   {
     "id": "book_015",
@@ -147,6 +147,156 @@
     "difficulty": "B1",
     "words": 312,
     "cover_url": "https://images.unsplash.com/photo-1498631906582-7b233a7e2ef3?q=80&w=800",
-    "download_url": "https://raw.githubusercontent.com/YourUsername/YourRepo/main/book/B1/voyage_to_the_new_world.txt"
+    "download_url": "https://raw.githubusercontent.com/Code-whith-Anuj/book/refs/heads/main/B1/voyage_to_the_new_world.txt"
+  },
+  {
+    "id": "book_016",
+    "title": "The AI Revolution",
+    "author": "AI Studio",
+    "stars": 4,
+    "difficulty": "B2",
+    "words": 524,
+    "cover_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=800",
+    "download_url": "https://raw.githubusercontent.com/Code-whith-Anuj/book/refs/heads/main/B2/the_ai_revolution.txt"
+  },
+  {
+    "id": "book_017",
+    "title": "Sustainable Living",
+    "author": "AI Studio",
+    "stars": 4,
+    "difficulty": "B2",
+    "words": 498,
+    "cover_url": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?q=80&w=800",
+    "download_url": "https://raw.githubusercontent.com/Code-whith-Anuj/book/refs/heads/main/B2/sustainable_living.txt"
+  },
+  {
+    "id": "book_018",
+    "title": "Habit Formation",
+    "author": "AI Studio",
+    "stars": 4,
+    "difficulty": "B2",
+    "words": 412,
+    "cover_url": "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?q=80&w=800",
+    "download_url": "https://raw.githubusercontent.com/Code-whith-Anuj/book/refs/heads/main/B2/habit_formation.txt"
+  },
+  {
+    "id": "book_019",
+    "title": "Deep Ocean Secrets",
+    "author": "AI Studio",
+    "stars": 4,
+    "difficulty": "B2",
+    "words": 384,
+    "cover_url": "https://images.unsplash.com/photo-1439066615861-d1af74d74000?q=80&w=800",
+    "download_url": "https://raw.githubusercontent.com/Code-whith-Anuj/book/refs/heads/main/B2/deep_ocean_secrets.txt"
+  },
+  {
+    "id": "book_020",
+    "title": "Space History",
+    "author": "AI Studio",
+    "stars": 4,
+    "difficulty": "B2",
+    "words": 416,
+    "cover_url": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=800",
+    "download_url": "https://raw.githubusercontent.com/Code-whith-Anuj/book/refs/heads/main/B2/space_history.txt"
+  },
+  {
+    "id": "book_021",
+    "title": "Rethinking Economics",
+    "author": "AI Studio",
+    "stars": 5,
+    "difficulty": "C1",
+    "words": 612,
+    "cover_url": "https://images.unsplash.com/photo-1611974717482-582ecae950a0?q=80&w=800",
+    "download_url": "https://raw.githubusercontent.com/Code-whith-Anuj/book/refs/heads/main/C1/rethinking_economics.txt"
+  },
+  {
+    "id": "book_022",
+    "title": "Non-Verbal Mastery",
+    "author": "AI Studio",
+    "stars": 5,
+    "difficulty": "C1",
+    "words": 584,
+    "cover_url": "https://images.unsplash.com/photo-1543269865-cbf427effbad?q=80&w=800",
+    "download_url": "https://raw.githubusercontent.com/Code-whith-Anuj/book/refs/heads/main/C1/non_verbal_mastery.txt"
+  },
+  {
+    "id": "book_023",
+    "title": "Urban Identity",
+    "author": "AI Studio",
+    "stars": 5,
+    "difficulty": "C1",
+    "words": 516,
+    "cover_url": "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?q=80&w=800",
+    "download_url": "https://raw.githubusercontent.com/Code-whith-Anuj/book/refs/heads/main/C1/urban_identity.txt"
+  },
+  {
+    "id": "book_024",
+    "title": "Digital Philosophy",
+    "author": "AI Studio",
+    "stars": 5,
+    "difficulty": "C1",
+    "words": 642,
+    "cover_url": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=800",
+    "download_url": "https://raw.githubusercontent.com/Code-whith-Anuj/book/refs/heads/main/C1/digital_philosophy.txt"
+  },
+  {
+    "id": "book_025",
+    "title": "Globalized Ethics",
+    "author": "AI Studio",
+    "stars": 5,
+    "difficulty": "C1",
+    "words": 684,
+    "cover_url": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=800",
+    "download_url": "https://raw.githubusercontent.com/Code-whith-Anuj/book/refs/heads/main/C1/globalized_ethics.txt"
+  },
+  {
+    "id": "book_026",
+    "title": "Epistemology",
+    "author": "AI Studio",
+    "stars": 5,
+    "difficulty": "C2",
+    "words": 812,
+    "cover_url": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?q=80&w=800",
+    "download_url": "https://raw.githubusercontent.com/Code-whith-Anuj/book/refs/heads/main/C2/epistemology.txt"
+  },
+  {
+    "id": "book_027",
+    "title": "Globalization Critique",
+    "author": "AI Studio",
+    "stars": 5,
+    "difficulty": "C2",
+    "words": 784,
+    "cover_url": "https://images.unsplash.com/photo-1526304640581-d334cdbbfde5?q=80&w=800",
+    "download_url": "https://raw.githubusercontent.com/Code-whith-Anuj/book/refs/heads/main/C2/globalization_critique.txt"
+  },
+  {
+    "id": "book_028",
+    "title": "Modernism in Art",
+    "author": "AI Studio",
+    "stars": 5,
+    "difficulty": "C2",
+    "words": 716,
+    "cover_url": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?q=80&w=800",
+    "download_url": "https://raw.githubusercontent.com/Code-whith-Anuj/book/refs/heads/main/C2/modernism_in_art.txt"
+  },
+  {
+    "id": "book_029",
+    "title": "Neuro-Language",
+    "author": "AI Studio",
+    "stars": 5,
+    "difficulty": "C2",
+    "words": 842,
+    "cover_url": "https://images.unsplash.com/photo-1559757175-5700dde675bc?q=80&w=800",
+    "download_url": "https://raw.githubusercontent.com/Code-whith-Anuj/book/refs/heads/main/C2/neuro_language.txt"
+  },
+  {
+    "id": "book_030",
+    "title": "Critique of Reason",
+    "author": "AI Studio",
+    "stars": 5,
+    "difficulty": "C2",
+    "words": 984,
+    "cover_url": "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=800",
+    "download_url": "https://raw.githubusercontent.com/Code-whith-Anuj/book/refs/heads/main/C2/critique_of_reason.txt"
   }
 ]
