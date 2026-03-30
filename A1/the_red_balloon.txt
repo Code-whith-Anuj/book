@@ -1,0 +1,19 @@
+[the_red_balloon.txt]
+Tom has a big red balloon. He loves his balloon. He goes to the park. The sky is blue and the grass is green. Tom runs with his balloon. It goes up and down. Suddenly, the wind is very strong. The balloon flies away. Tom is sad. He cries, "My balloon! My red balloon!"
+
+An old man sees Tom. He has a small dog. The dog is brown. The man says, "Do not cry, Tom." He looks at the tall tree. The red balloon is in the tree. The man is tall. He reaches up and gets the balloon. He gives it to Tom. Tom is very happy. He says, "Thank you, sir." Tom and the man play in the park. The red balloon is safe now.
+
+[my_family.txt]
+My name is Sam. I am ten years old. I have a big family. I live with my mother, my father, and my sister. My mother is a doctor. She is very kind. My father is a chef. He makes great pizza. My sister is five years old. Her name is Lily. She likes to play with dolls.
+
+We have a dog too. His name is Buddy. Buddy is big and brown. Every morning, my father walks Buddy. My mother goes to the hospital. I go to school with Lily. In the evening, we all eat dinner together. We talk about our day. I love my family very much. We are very happy in our small house.
+
+[a_day_at_the_zoo.txt]
+Today is Saturday. Many families are at the zoo. It is a sunny day. I see a big elephant. The elephant is grey. It has a long nose. It is eating an apple. Next, I see the lions. There are three lions. They are sleeping under a tree. They are very big and yellow.
+
+I go to see the monkeys. The monkeys are funny. They are jumping and playing. One monkey has a banana. It is eating the banana. I like the monkeys. Finally, I see the birds. The birds are many colors: red, blue, and green. They are singing. The zoo is a very interesting place. I want to come back next Saturday.
+
+[the_big_sandbox.txt]
+The sun is shining on the playground. There is a big sandbox. Four children are in the sandbox. Their names are Leo, Mia, Toby, and Sara. Leo has a blue bucket. Mia has a yellow spade. They are making a big sandcastle. It is very tall.
+
+Toby has a red truck. He is moving sand with his truck. Sara is making a small house. Toby says, "Can I help you, Sara?" Sara says, "Yes, please." They work together. Now the sandcastle and the house are very beautiful. The children are happy. They like to play in the big sandbox. It is a fun day at the park.

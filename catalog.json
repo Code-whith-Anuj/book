@@ -1,0 +1,152 @@
+[
+  {
+    "id": "book_001",
+    "title": "The Lost Cat",
+    "author": "AI Studio",
+    "stars": 1,
+    "difficulty": "A1",
+    "words": 284,
+    "cover_url": "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?q=80&w=800",
+    "download_url": "https://raw.githubusercontent.com/YourUsername/YourRepo/main/book/A1/the_lost_cat.txt"
+  },
+  {
+    "id": "book_002",
+    "title": "The Red Balloon",
+    "author": "AI Studio",
+    "stars": 1,
+    "difficulty": "A1",
+    "words": 162,
+    "cover_url": "https://images.unsplash.com/photo-1502602724639-7fe019059748?q=80&w=800",
+    "download_url": "https://raw.githubusercontent.com/YourUsername/YourRepo/main/book/A1/the_red_balloon.txt"
+  },
+  {
+    "id": "book_003",
+    "title": "My Family",
+    "author": "AI Studio",
+    "stars": 1,
+    "difficulty": "A1",
+    "words": 118,
+    "cover_url": "https://images.unsplash.com/photo-1511895426328-dc8714191300?q=80&w=800",
+    "download_url": "https://raw.githubusercontent.com/YourUsername/YourRepo/main/book/A1/my_family.txt"
+  },
+  {
+    "id": "book_004",
+    "title": "A Day at the Zoo",
+    "author": "AI Studio",
+    "stars": 1,
+    "difficulty": "A1",
+    "words": 134,
+    "cover_url": "https://images.unsplash.com/photo-1510797215324-95aa89f43c33?q=80&w=800",
+    "download_url": "https://raw.githubusercontent.com/YourUsername/YourRepo/main/book/A1/a_day_at_the_zoo.txt"
+  },
+  {
+    "id": "book_005",
+    "title": "The Big Sandbox",
+    "author": "AI Studio",
+    "stars": 1,
+    "difficulty": "A1",
+    "words": 92,
+    "cover_url": "https://images.unsplash.com/photo-1566454544259-f4b94c3d758c?q=80&w=800",
+    "download_url": "https://raw.githubusercontent.com/YourUsername/YourRepo/main/book/A1/the_big_sandbox.txt"
+  },
+  {
+    "id": "book_006",
+    "title": "Morning Coffee",
+    "author": "AI Studio",
+    "stars": 2,
+    "difficulty": "A2",
+    "words": 416,
+    "cover_url": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?q=80&w=800",
+    "download_url": "https://raw.githubusercontent.com/YourUsername/YourRepo/main/book/A2/morning_coffee.txt"
+  },
+  {
+    "id": "book_007",
+    "title": "The Surprise Party",
+    "author": "AI Studio",
+    "stars": 2,
+    "difficulty": "A2",
+    "words": 184,
+    "cover_url": "https://images.unsplash.com/photo-1464349095431-e9a21285b5f3?q=80&w=800",
+    "download_url": "https://raw.githubusercontent.com/YourUsername/YourRepo/main/book/A2/the_surprise_party.txt"
+  },
+  {
+    "id": "book_008",
+    "title": "Market Day",
+    "author": "AI Studio",
+    "stars": 2,
+    "difficulty": "A2",
+    "words": 216,
+    "cover_url": "https://images.unsplash.com/photo-1488459716781-31db52582fe9?q=80&w=800",
+    "download_url": "https://raw.githubusercontent.com/YourUsername/YourRepo/main/book/A2/market_day.txt"
+  },
+  {
+    "id": "book_009",
+    "title": "A Weekend in the City",
+    "author": "AI Studio",
+    "stars": 2,
+    "difficulty": "A2",
+    "words": 198,
+    "cover_url": "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?q=80&w=800",
+    "download_url": "https://raw.githubusercontent.com/YourUsername/YourRepo/main/book/A2/a_weekend_in_the_city.txt"
+  },
+  {
+    "id": "book_010",
+    "title": "The Secret Garden",
+    "author": "AI Studio",
+    "stars": 2,
+    "difficulty": "A2",
+    "words": 204,
+    "cover_url": "https://images.unsplash.com/photo-1585320806297-9794b3e4eeae?q=80&w=800",
+    "download_url": "https://raw.githubusercontent.com/YourUsername/YourRepo/main/book/A2/the_secret_garden.txt"
+  },
+  {
+    "id": "book_011",
+    "title": "The Train Ticket",
+    "author": "AI Studio",
+    "stars": 3,
+    "difficulty": "B1",
+    "words": 564,
+    "cover_url": "https://images.unsplash.com/photo-1474487543417-981ceee1c0c8?q=80&w=800",
+    "download_url": "https://raw.githubusercontent.com/YourUsername/YourRepo/main/book/B1/the_train_ticket.txt"
+  },
+  {
+    "id": "book_012",
+    "title": "The Midnight Watchmaker",
+    "author": "AI Studio",
+    "stars": 3,
+    "difficulty": "B1",
+    "words": 248,
+    "cover_url": "https://images.unsplash.com/photo-1508931102983-ca497e780a42?q=80&w=800",
+    "download_url": "https://raw.githubusercontent.com/YourUsername/YourRepo/main/book/B1/the_midnight_watchmaker.txt"
+  },
+  {
+    "id": "book_013",
+    "title": "Escaping the Storm",
+    "author": "AI Studio",
+    "stars": 3,
+    "difficulty": "B1",
+    "words": 248,
+    "cover_url": "https://images.unsplash.com/photo-1534088568595-a066f410bcda?q=80&w=800",
+    "download_url": "https://raw.githubusercontent.com/YourUsername/YourRepo/main/book/B1/escaping_the_storm.txt"
+  },
+  {
+    "id": "book_014",
+    "title": "The Unfinished Letter",
+    "author": "AI Studio",
+    "stars": 3,
+    "difficulty": "B1",
+    "words": 248,
+    "cover_url": "https://images.unsplash.com/photo-1501504905252-473c47e087f8?q=80&w=800",
+    "download_url": "https://raw.githubusercontent.com/YourUsername/YourRepo/main/book/B1/the_unfinished_letter.txt"
+  },
+  {
+    "id": "book_015",
+    "title": "Voyage to the New World",
+    "author": "AI Studio",
+    "stars": 3,
+    "difficulty": "B1",
+    "words": 312,
+    "cover_url": "https://images.unsplash.com/photo-1498631906582-7b233a7e2ef3?q=80&w=800",
+    "download_url": "https://raw.githubusercontent.com/YourUsername/YourRepo/main/book/B1/voyage_to_the_new_world.txt"
+  }
+]
