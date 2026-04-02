@@ -2,7 +2,7 @@
   {
     "id": "book_001",
     "title": "The Lost Cat",
-    "author": "AI Studio",
+    "author": "Emma Johnson",
     "stars": 1,
     "difficulty": "A1",
     "words": 284,
@@ -12,7 +12,7 @@
   {
     "id": "book_002",
     "title": "The Red Balloon",
-    "author": "AI Studio",
+    "author": "Liam Smith",
     "stars": 1,
     "difficulty": "A1",
     "words": 162,
@@ -22,7 +22,7 @@
   {
     "id": "book_003",
     "title": "My Family",
-    "author": "AI Studio",
+    "author": "Olivia Williams",
     "stars": 1,
     "difficulty": "A1",
     "words": 118,
@@ -32,7 +32,7 @@
   {
     "id": "book_004",
     "title": "A Day at the Zoo",
-    "author": "AI Studio",
+    "author": "Noah Brown",
     "stars": 1,
     "difficulty": "A1",
     "words": 134,
@@ -42,7 +42,7 @@
   {
     "id": "book_005",
     "title": "The Big Sandbox",
-    "author": "AI Studio",
+    "author": "Ava Jones",
     "stars": 1,
     "difficulty": "A1",
     "words": 92,
@@ -52,7 +52,7 @@
   {
     "id": "book_006",
     "title": "Morning Coffee",
-    "author": "AI Studio",
+    "author": "Ethan Garcia",
     "stars": 2,
     "difficulty": "A2",
     "words": 416,
@@ -62,7 +62,7 @@
   {
     "id": "book_007",
     "title": "The Surprise Party",
-    "author": "AI Studio",
+    "author": "Sophia Miller",
     "stars": 2,
     "difficulty": "A2",
     "words": 184,
@@ -72,7 +72,7 @@
   {
     "id": "book_008",
     "title": "Market Day",
-    "author": "AI Studio",
+    "author": "Mason Davis",
     "stars": 2,
     "difficulty": "A2",
     "words": 216,
@@ -82,7 +82,7 @@
   {
     "id": "book_009",
     "title": "A Weekend in the City",
-    "author": "AI Studio",
+    "author": "Isabella Rodriguez",
     "stars": 2,
     "difficulty": "A2",
     "words": 198,
@@ -92,7 +92,7 @@
   {
     "id": "book_010",
     "title": "The Secret Garden",
-    "author": "AI Studio",
+    "author": "William Martinez",
     "stars": 2,
     "difficulty": "A2",
     "words": 204,
@@ -102,7 +102,7 @@
   {
     "id": "book_011",
     "title": "The Train Ticket",
-    "author": "AI Studio",
+    "author": "Mia Hernandez",
     "stars": 3,
     "difficulty": "B1",
     "words": 564,
@@ -112,7 +112,7 @@
   {
     "id": "book_012",
     "title": "The Midnight Watchmaker",
-    "author": "AI Studio",
+    "author": "James Lopez",
     "stars": 3,
     "difficulty": "B1",
     "words": 248,
@@ -122,7 +122,7 @@
   {
     "id": "book_013",
     "title": "Escaping the Storm",
-    "author": "AI Studio",
+    "author": "Charlotte Gonzalez",
     "stars": 3,
     "difficulty": "B1",
     "words": 248,
@@ -132,7 +132,7 @@
   {
     "id": "book_014",
     "title": "The Unfinished Letter",
-    "author": "AI Studio",
+    "author": "Benjamin Wilson",
     "stars": 3,
     "difficulty": "B1",
     "words": 248,
@@ -142,7 +142,7 @@
   {
     "id": "book_015",
     "title": "Voyage to the New World",
-    "author": "AI Studio",
+    "author": "Amelia Anderson",
     "stars": 3,
     "difficulty": "B1",
     "words": 312,
@@ -152,7 +152,7 @@
   {
     "id": "book_016",
     "title": "The AI Revolution",
-    "author": "AI Studio",
+    "author": "Lucas Thomas",
     "stars": 4,
     "difficulty": "B2",
     "words": 524,
@@ -162,7 +162,7 @@
   {
     "id": "book_017",
     "title": "Sustainable Living",
-    "author": "AI Studio",
+    "author": "Harper Taylor",
     "stars": 4,
     "difficulty": "B2",
     "words": 498,
@@ -172,7 +172,7 @@
   {
     "id": "book_018",
     "title": "Habit Formation",
-    "author": "AI Studio",
+    "author": "Henry Moore",
     "stars": 4,
     "difficulty": "B2",
     "words": 412,
@@ -182,7 +182,7 @@
   {
     "id": "book_019",
     "title": "Deep Ocean Secrets",
-    "author": "AI Studio",
+    "author": "Evelyn Jackson",
     "stars": 4,
     "difficulty": "B2",
     "words": 384,
@@ -192,7 +192,7 @@
   {
     "id": "book_020",
     "title": "Space History",
-    "author": "AI Studio",
+    "author": "Alexander Martin",
     "stars": 4,
     "difficulty": "B2",
     "words": 416,
@@ -202,7 +202,7 @@
   {
     "id": "book_021",
     "title": "Rethinking Economics",
-    "author": "AI Studio",
+    "author": "Abigail Lee",
     "stars": 5,
     "difficulty": "C1",
     "words": 612,
@@ -212,7 +212,7 @@
   {
     "id": "book_022",
     "title": "Non-Verbal Mastery",
-    "author": "AI Studio",
+    "author": "Michael Perez",
     "stars": 5,
     "difficulty": "C1",
     "words": 584,
@@ -222,7 +222,7 @@
   {
     "id": "book_023",
     "title": "Urban Identity",
-    "author": "AI Studio",
+    "author": "Emily Thompson",
     "stars": 5,
     "difficulty": "C1",
     "words": 516,
@@ -232,7 +232,7 @@
   {
     "id": "book_024",
     "title": "Digital Philosophy",
-    "author": "AI Studio",
+    "author": "Daniel White",
     "stars": 5,
     "difficulty": "C1",
     "words": 642,
@@ -242,7 +242,7 @@
   {
     "id": "book_025",
     "title": "Globalized Ethics",
-    "author": "AI Studio",
+    "author": "Elizabeth Harris",
     "stars": 5,
     "difficulty": "C1",
     "words": 684,
@@ -252,7 +252,7 @@
   {
     "id": "book_026",
     "title": "Epistemology",
-    "author": "AI Studio",
+    "author": "Matthew Sanchez",
     "stars": 5,
     "difficulty": "C2",
     "words": 812,
@@ -262,7 +262,7 @@
   {
     "id": "book_027",
     "title": "Globalization Critique",
-    "author": "AI Studio",
+    "author": "Sofia Clark",
     "stars": 5,
     "difficulty": "C2",
     "words": 784,
@@ -272,7 +272,7 @@
   {
     "id": "book_028",
     "title": "Modernism in Art",
-    "author": "AI Studio",
+    "author": "Samuel Ramirez",
     "stars": 5,
     "difficulty": "C2",
     "words": 716,
@@ -282,7 +282,7 @@
   {
     "id": "book_029",
     "title": "Neuro-Language",
-    "author": "AI Studio",
+    "author": "Avery Lewis",
     "stars": 5,
     "difficulty": "C2",
     "words": 842,
@@ -292,7 +292,7 @@
   {
     "id": "book_030",
     "title": "Critique of Reason",
-    "author": "AI Studio",
+    "author": "David Robinson",
     "stars": 5,
     "difficulty": "C2",
     "words": 984,
